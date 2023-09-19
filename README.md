@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duong Vu. I am a student in Computer Science, majoring in Data Science and Artificial Intelligence. I am interested in the following topics: Deep Learning and Machne Learning<br>
+My name is Duong Vu. I am a student in Computer Science, majoring in Data Science and Artificial Intelligence. I am interested in the following topics: Deep Learning and Machine Learning<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cong-tuan-duong-vu-551329232/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Seragu10) [![X](https://cdn.dribbble.com/users/4628/screenshots/1393227/media/cb7895de7ff9a843dbc7ff4e2ccac63b.png?compress=1&resize=14x14) X](https://twitter.com/duongvct2004).
@@ -23,9 +23,9 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=tensorflow-pro-cert-coursera&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/vucongtuanduong/tensorflow-pro-cert-coursera">
+<a href="https://github.com/vucongtuanduong/applied_algo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=tensorflow-pro-cert-coursera&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=applied_algo&theme=synthwave" />
 </a>
 
 <a href="https://github.com/vucongtuanduong/Double-Agent-Tetris">
