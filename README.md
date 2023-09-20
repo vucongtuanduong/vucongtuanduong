@@ -5,9 +5,21 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cong-tuan-duong-vu-551329232/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Seragu10) [![X](https://cdn.dribbble.com/users/4628/screenshots/1393227/media/cb7895de7ff9a843dbc7ff4e2ccac63b.png?compress=1&resize=14x14) X](https://twitter.com/duongvct2004).
 
 
+<!--
+![Duong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vucongtuanduong&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+!-->
+### GitHub Stats
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vucongtuanduong&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vucongtuanduong&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucongtuanduong&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
 <a href="https://github.com/vucongtuanduong/cpp-codeptit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=cpp-codeptit&theme=radical" />
