@@ -24,7 +24,10 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=cpp-codeptit&theme=radical" />
 </a>    
-
+<a href="https://github.com/vucongtuanduong/discrete-math1">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=discrete-math1&theme=cobalt" />
+</a>
 <a href="https://github.com/vucongtuanduong/deeplearning-specialization-coursera">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=deeplearning-specialization-coursera&theme=merko" />
@@ -51,7 +54,4 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=THCS2-PTIT&theme=onedark" />
 </a>
 
-<a href="https://github.com/vucongtuanduong/discrete-math1">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=discrete-math1&theme=cobalt" />
-</a>
+
