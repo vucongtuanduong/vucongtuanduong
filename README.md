@@ -37,7 +37,10 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=tensorflow-pro-cert-coursera&theme=gruvbox" />
 </a>
-
+<a href="https://github.com/vucongtuanduong/meta-backend">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=meta-backend&theme=onedark" />
+</a>
 <a href="https://github.com/vucongtuanduong/applied_algo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=applied_algo&theme=synthwave" />
