@@ -24,6 +24,10 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=cpp-codeptit&theme=radical" />
 </a>    
+<a href="https://github.com/vucongtuanduong/dsa-codeptit">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=dsa-codeptit&theme=radical" />
+</a> 
 <a href="https://github.com/vucongtuanduong/discrete-math1">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=discrete-math1&theme=cobalt" />
