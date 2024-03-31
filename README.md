@@ -20,6 +20,10 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
 </td>
   </tr>
 </table>
+<a href="https://github.com/vucongtuanduong/heart-disease-prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=heart-disease-prediction&theme=radical" />
+</a>    
 <a href="https://github.com/vucongtuanduong/cpp-codeptit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=cpp-codeptit&theme=radical" />
