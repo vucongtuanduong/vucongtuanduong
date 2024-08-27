@@ -24,6 +24,9 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=heart-disease-prediction-mlops&theme=radical" />
 </a>    
+<a href="https://github.com/vucongtuanduong/vietnamese-rag-project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=vietnamese-rag-project&theme=dark" />
 <a href="https://github.com/vucongtuanduong/cpp-codeptit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=cpp-codeptit&theme=radical" />
@@ -54,9 +57,7 @@ My name is Duong Vu. I am a student in Computer Science, majoring in Data Scienc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=applied_algo&theme=synthwave" />
 </a>
 
-<a href="https://github.com/vucongtuanduong/Double-Agent-Tetris">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vucongtuanduong&repo=Double-Agent-Tetris&theme=dark" />
+
 </a>
 
 
