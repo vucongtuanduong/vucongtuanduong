@@ -1,8 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duong Vu. I am a student in Computer Science, majoring in Data Science and Artificial Intelligence. I am interested in the following topics: Deep Learning and Machine Learning<br>
+My name is Duong Vu. I am a Computer Science student. I am interested in following topics: Design Patterns, Software Design and Software Development<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cong-tuan-duong-vu-551329232/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vucongtuanduong) [![X](https://cdn.dribbble.com/users/4628/screenshots/1393227/media/cb7895de7ff9a843dbc7ff4e2ccac63b.png?compress=1&resize=14x14) X](https://twitter.com/duongvct2004).
+[LinkedIn](https://www.linkedin.com/in/cong-tuan-duong-vu-551329232/) [GitHub](https://github.com/vucongtuanduong) [X](https://twitter.com/duongvct2004).
 
 
 <!--
