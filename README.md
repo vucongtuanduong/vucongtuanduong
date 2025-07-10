@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duong Vu. I am a Computer Science student. I am interested in following topics: Design Patterns, Software Design and Software Development<br>
+My name is Duong Vu. I am a Computer Science student. I am interested in following topics: Software Design and Software Engineer<br>
 ## 📫 How to reach me: 
 
 [LinkedIn](https://www.linkedin.com/in/cong-tuan-duong-vu-551329232/) [GitHub](https://github.com/vucongtuanduong) [X](https://twitter.com/duongvct2004).
